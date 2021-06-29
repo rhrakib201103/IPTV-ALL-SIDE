@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi",Jamuna TV
 http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
@@ -79,8 +77,7 @@ http://nandansyst.com/hls/nandan.m3u8
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hY5SJLT.png" group-title="Bangladeshi",Channel S
 https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.funtatv.com/wp-content/uploads/2020/08/channel-t1_spyvjm.png" group-title="Bangladeshi",Channel T1
-http://128.199.212.160/channelt1/1080/index.m3u8
+
 
 
 
@@ -149,12 +146,8 @@ http://128.199.212.160/alif/1080/index.m3u8
 https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Bangladeshi [Server-2]",Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Bangladeshi [Server-2]",CNN Bangla
-http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
-#EXTINF:0 tvg-logo="https://tvtolive.com/wp-content/uploads/Joyjatra-TV.tvtolive.com_.jpg" group-title="Bangladeshi [Server-2]",Joyojatra
-https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/05/nakhsiptv-1.jpg" group-title="Bangladeshi [Server-2]",Nakshi
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
+
+
 
 
 
