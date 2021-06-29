@@ -154,7 +154,7 @@ http://nandansyst.com/hls/nandan.m3u8
  
  
  
-																		**Indian Bangla**
+				**Indian Bangla**
  
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
@@ -455,8 +455,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="Documentery",CTGN Documentery
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 group-title="Documentery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-tv-discovery-6-kh.png", ONETV 6 - Discovery
-http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
 #EXTINF:-1 group-title="Documentery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png", Crime & Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentery",BBC Earth
@@ -466,8 +464,6 @@ https://m3u-editor.com/serve/275b7550-c3a3-11eb-8ae8-752fc36d35c7/308152444
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Documentery",Travel XP BANGLA
 http://103.81.104.118/hls/stream37.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/animalplanent.jpg" group-title="Documentary" ,Animal Planet HD Bangla
-https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentery",TLC HD
 https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentery",History TV
