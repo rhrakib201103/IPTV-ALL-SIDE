@@ -203,12 +203,10 @@ https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAh9MaPS9uMRiS0Pd0KShm3RYBE3grP-ixQA-UmXOENPEJWZxqu3Ut1GVqCU8z3GfHvM&usqp=CAU&ec=45780880" group-title="Hindi",Sony HD
 http://rv.therevenge.co:80/307211716271/307211716271/83706
-https://streamer-1.toffeelive.com/mobile_hls/sony_entertainmnt_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
 http://rv.therevenge.co:80/307211716271/307211716271/83705
-https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuu_2DUWu_4luFHKJ4PkstZe85KfcYni7nmFPFvkW-pAayRyfb9RifAnigDMnuggvNSN0&usqp=CAU" group-title="Hindi",Sony Max 2
-https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://rv.therevenge.co:80/307211716271/307211716271/83704
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi",Zee Cinema
